@@ -1,0 +1,8 @@
+Please review the differences between the AWS Developer Support, AWS Business Support, AWS Enterprise On-Ramp Support and AWS Enterprise Support
+ plans as you can expect at least a couple of questions on the exam:
+ 
+ 
+ AWS Glue job is meant to be used for batch ETL data processing.
+ Amazon Polly is a service that turns text into lifelike speech, allowing you to create applications that talk
+ Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS
+ AWS Secrets Manager helps you protect secrets needed to access your applications, services, and IT resources. The service enables you to easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle

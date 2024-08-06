@@ -1,0 +1,17 @@
+SpringBoot security :
+
+1.JWT Service
+Layers :
+Header , Payload (user details and getclaims) , and Verify Signature  - (secrete Key  - HS512 Algorithm)
++30 mins adding for validation , checking isValidToken() , 
+
+2. UserDetails Service
+
+3.Httpsecurity - > authenticated and Authorizzation , CSRF cross site hacking
+
+
+4. JWTAuthentication -> 14 Filters validation  - started
+
+
+
+
